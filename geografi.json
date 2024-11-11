@@ -1,0 +1,141 @@
+{
+  "Categories": [
+    {
+      "CategoryName": "Cities",
+      "Questions": [
+        {
+          "QuestionText": "Which city is the capital of Italy?",
+          "CorrectAnswer": "Rome",
+          "Options": [
+            "Rome",
+            "Milan",
+            "Venice",
+            "Naples"
+          ]
+        },
+        {
+          "QuestionText": "Which city is known for the Great Wall of China?",
+          "CorrectAnswer": "Beijing",
+          "Options": [
+            "Hong Kong",
+            "Shanghai",
+            "Beijing",
+            "Xi'an"
+          ]
+        },
+        {
+          "QuestionText": "In which city can you find the famous Eiffel Tower?",
+          "CorrectAnswer": "Paris",
+          "Options": [
+            "Amsterdam",
+            "Brussels",
+            "London",
+            "Paris"
+          ]
+        },
+        {
+          "QuestionText": "Which city is the capital of Spain?",
+          "CorrectAnswer": "Madrid",
+          "Options": [
+            "Madrid",
+            "Barcelona",
+            "Seville",
+            "Valencia"
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryName": "Lakes",
+      "Questions": [
+        {
+          "QuestionText": "What is the largest lake in the world by surface area?",
+          "CorrectAnswer": "Caspian Sea",
+          "Options": [
+            "Caspian Sea",
+            "Lake Superior",
+            "Lake Victoria",
+            "ovrekjala"
+          ]
+        },
+        {
+          "QuestionText": "Which lake lies between Sweden and Finland?",
+          "CorrectAnswer": "Gulf of Bothnia",
+          "Options": [
+            "Vaddoviken",
+            "Gulf of Bothnia",
+            "Lake Malaren",
+            "ovrekjala"
+          ]
+        },
+        {
+          "QuestionText": "Which lake lies on the border between the USA and Canada?",
+          "CorrectAnswer": "Lake Erie",
+          "Options": [
+            "Lake Superior",
+            "Lake Michigan",
+            "Lake Ontario",
+            "Lake Erie"
+          ]
+        },
+        {
+          "QuestionText": "Which lake is located in Switzerland and borders Germany?",
+          "CorrectAnswer": "Lake Constance",
+          "Options": [
+            "Lake Constance",
+            "Lake Geneva",
+            "Lake Zürich",
+            "Lake Neuchâtel"
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryName": "Mountains",
+      "Questions": [
+        {
+          "QuestionText": "Which mountain is the highest peak in Afrika?",
+          "CorrectAnswer": "Mount Kilimanjaro",
+          "Options": [
+            "Mount Kenya",
+            "K2",
+            "Mount Kilimanjaro",
+            "Makalu"
+          ]
+        },
+        {
+          "QuestionText": "Which mountain is located on the border between Nepal and China?",
+          "CorrectAnswer": "Mount Everest",
+          "Options": [
+            "Mount Everest",
+            "K2",
+            "Annapurna",
+            "Kangchenjunga"
+          ]
+        },
+        {
+          "QuestionText": "What is the name of the mountain located in Argentina and is the highest in South America?",
+          "CorrectAnswer": "Aconcagua",
+          "Options": [
+            "Aconcagua",
+            "Mount Fitz Roy",
+            "Mount McKinley",
+            "Mount Elbrus"
+          ]
+        },
+        {
+          "QuestionText": "Which mountain is known for its volcanic activity in Iceland?",
+          "CorrectAnswer": "Eyjafjallajokull",
+          "Options": [
+            "Eyjafjallajokull",
+            "Mount St. Helens",
+            "Krakatoa",
+            "Mount Fuji"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
