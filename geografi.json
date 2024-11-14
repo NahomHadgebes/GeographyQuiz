@@ -84,8 +84,8 @@
           "Options": [
             "Lake Constance",
             "Lake Geneva",
-            "Lake Zürich",
-            "Lake Neuchâtel"
+            "Lake Zurich",
+            "Lake Neuchatel"
           ]
         }
       ]
@@ -127,10 +127,10 @@
           "QuestionText": "Which mountain is known for its volcanic activity in Iceland?",
           "CorrectAnswer": "Eyjafjallajokull",
           "Options": [
-            "Eyjafjallajokull",
+            "Mount Fiji",
             "Mount St. Helens",
             "Krakatoa",
-            "Mount Fuji"
+            "Eyjafjallajokull"
           ]
         }
       ]
